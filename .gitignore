@@ -1,0 +1,3 @@
+data/*.parquet
+data/*.gz
+kernels/*.bsp
